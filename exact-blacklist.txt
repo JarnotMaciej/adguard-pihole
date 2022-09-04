@@ -28,7 +28,6 @@ data.sec.miui.com
 coin-hive.com
 www.coin-hive.com
 adsassets.waze.com
-v.wpimg.pl
 userlocation.googleapis.com
 catalog.gamepass.com
 id.google.com
@@ -46,8 +45,5 @@ hotjar-analytics.com
 consumer.entitlement.skype.com
 wx.huion.cn
 go.trouter.skype.com
-b-graph.facebook.com
 www.yahoo.com
 www.apple.com
-s.youtube.com
-wykop.pl
