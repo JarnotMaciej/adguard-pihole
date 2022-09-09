@@ -197,3 +197,5 @@ osb-eusvc.samsungqbe.com
 vdterms.samsungcloudsolution.com
 t.co
 a.nel.cloudflare.com
+pay-users-pa.googleapis.com
+androidpay-users-pa.googleapis.com
