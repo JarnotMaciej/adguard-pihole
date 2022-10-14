@@ -47,3 +47,4 @@ wx.huion.cn
 go.trouter.skype.com
 www.yahoo.com
 www.apple.com
+x-promo.softgames.com
