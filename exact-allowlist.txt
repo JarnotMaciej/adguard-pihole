@@ -200,3 +200,4 @@ a.nel.cloudflare.com
 pay-users-pa.googleapis.com
 androidpay-users-pa.googleapis.com
 streetviewpixels-pa.googleapis.com
+geller-pa.googleapis.com
