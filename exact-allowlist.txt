@@ -204,3 +204,4 @@ geller-pa.googleapis.com
 fcmconnection.googleapis.com
 www.googleapis.com
 gateway.messenger.com
+discord-attachments-uploads-prd.storage.googleapis.com
