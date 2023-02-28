@@ -207,3 +207,4 @@ gateway.messenger.com
 discord-attachments-uploads-prd.storage.googleapis.com
 dc.services.visualstudio.com
 sdkconfig.ad.xiaomi.com
+mobile.pipe.aria.microsoft.com
