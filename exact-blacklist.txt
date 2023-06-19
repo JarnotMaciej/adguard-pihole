@@ -48,3 +48,4 @@ go.trouter.skype.com
 www.yahoo.com
 www.apple.com
 x-promo.softgames.com
+ingest.sentry.io
