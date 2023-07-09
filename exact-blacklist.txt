@@ -49,3 +49,5 @@ www.yahoo.com
 www.apple.com
 x-promo.softgames.com
 ingest.sentry.io
+ecs.office.com
+dc.services.visualstudio.com
