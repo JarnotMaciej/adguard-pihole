@@ -209,3 +209,5 @@ dc.services.visualstudio.com
 sdkconfig.ad.xiaomi.com
 mobile.pipe.aria.microsoft.com
 browser.events.data.microsoft.com
+nike.com
+nikecloud.com
